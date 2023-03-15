@@ -1,0 +1,10 @@
+npm =
+1) "swiper": "^9.1.0", === https://swiperjs.com/react
+2)  "react-scroll": "^1.8.9", === https://www.npmjs.com/package/react-scroll
+3) "framer-motion": "^6.2.8", === https://www.framer.com/motion/scroll-animations/#scroll-triggered-animations
+3)  "emailjs": "^4.0.1",  ==== https://www.emailjs.com/docs/examples/reactjs/
+4) "@iconscout/react-unicons": "^2.0.0", == https://iconscout.com/unicons
+5) "@emailjs/browser": "^3.10.0", ====== https://www.npmjs.com/package/@emailjs/browser
+
+hero we use 
+1)       
